@@ -55,6 +55,14 @@
     "command": "/addcs [id дома] [Кастом название]\n/clearcs [Если пусто - все удаляет; id дома - удалится его кастом название]",
     "version": "1.0"
   },
+  {
+    "name": "Roulett Opener",
+    "description": "Очень удобный скрипт для авто-открытие рулеток",
+    "filename": "RouletteOpener",
+    "url": "https://github.com/Tariffka/MySampScripts/raw/refs/heads/main/RouletteOpener.lua",
+    "command": "/ro",
+    "version": "1.0"
+  },
     {
     "name": "Новая Статистика",
     "description": "Скрипт для MoonLoader, который выводит статистику персонажа в отдельном CEF-окне.\nКрасивая статистика где все понятно",
